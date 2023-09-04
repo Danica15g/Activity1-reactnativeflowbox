@@ -207,4 +207,4 @@ seeMore:{
   marginLeft:'185px',
   fontSize: '15px',  
 }
-});
+}); 
