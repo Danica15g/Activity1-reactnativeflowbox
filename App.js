@@ -5,15 +5,15 @@ import {Image} from 'react-native';
 const Picture = () => {
   return(
     <View>
-       <Image source={{ uri: 'https://clipart-library.com/images/di45E54BT.jpg'}} style ={styles.Picture} />
+       <Image source={{ uri: 'https://i.pinimg.com/564x/ff/90/75/ff9075c7608fb6f0b999c6f5de3d9cb6.jpg'}} style ={styles.Picture} />
      </View>
   ) 
 };
 const NAME = () =>{
   return(
     <View> 
-<Text style ={styles.name}> CLEA MAY NIÑA I. GULTIANO </Text>
-<Text style={styles.course}> BS INFORMATION  TECHNOLOGY </Text> 
+<Text style ={styles.name}> DANICA MAE GONZAGA</Text>
+<Text style={styles.course}> BS Info Tech</Text> 
 </View>
   )
 }
